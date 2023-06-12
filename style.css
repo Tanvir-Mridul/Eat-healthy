@@ -1,0 +1,47 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.flaxible {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.half-width {
+    width: 50%;
+    padding: 3%;
+}
+
+
+#parent {
+    position: absolute;
+    width: 50%;
+
+    left: 800px;
+    top: -43px;
+
+
+
+}
+
+#img-1 {
+    position: absolute;
+    width: 200.86px;
+    height: 200.86px;
+    left: 1.71px;
+    top: 100px;
+    z-index: 2;
+
+
+}
+
+.img-2 {
+    position: absolute;
+    width: 200.86px;
+    height: 200.86px;
+    left: 300.71px;
+    top: 100.16px;
+
+
+}
